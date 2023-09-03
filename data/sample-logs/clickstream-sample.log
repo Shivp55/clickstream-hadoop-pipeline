@@ -1,0 +1,6 @@
+2023-09-01T10:00:00Z,user1,/home,Chrome
+2023-09-01T10:00:02Z,user1,/products,Chrome
+2023-09-01T10:00:05Z,user2,/landing,Firefox
+2023-09-01T10:00:07Z,user2,/signup,Firefox
+2023-09-01T10:00:10Z,user3,/home,Safari
+
